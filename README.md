@@ -27,6 +27,7 @@ I want to bring my unique skill set, drive and commitment to a workplace with co
 # Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
+| **[Travelist](https://github.com/melvinlau/travelist)** | Currently in progress: a smart travel packing list assistant that uses weather data and custom user input to create a handy packing list for any trip | 2 weeks |Node.js, Express, React, MongoDB | Travis, Cypress, Jest  |
 | **Acebook** Phase 1: [Rails app](https://github.com/nateg101/acebook-by-WinkleFace) Phase 2: [Rails backend](https://github.com/nateg101/acebook-by-WinkleFace/tree/api-routes) [ReactJS frontend](https://github.com/robertamangiapane/acebook-react) | Interpretation of Facebook with an emphasis on Agile processes, team work and learning new technology. Initially tasked to create it in Rails, for which we achieved 98% test coverage. Half-way through we were challenged to change our app to create a ReactJS front end. We had no prior knowledge of either Rails or React before the project.  | 2 weeks |Ruby on Rails, ReactJS, Active Record, Heroku, HTML/CSS | RSpec, Capybara, Travis, Cypress  |
 | **[Notes App](https://github.com/zraso/note-app)**| A single-page app created with the caveat that I wasn't allowed to use any frameworks; only vanilla Javascript and a self-built testing framework.  | 1 week |HTML/CSS, JavaScript | My own testing framework  |
 

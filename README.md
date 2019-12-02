@@ -68,7 +68,7 @@ Utilised my **adaptability** and **collaborative working** to work across a rang
 # Education
 
 #### Makers Academy - Software development bootcamp (June 2019 - Sept 2019) 
-* Tech Skills: Ruby, Rails, Javascript, JQuery, Node.js, React.js, Express, Sinatra, Capybara, HTML, CSS, RSpec, Jasmine, Cypress, PostgreSQL, ActiveRecord
+* Tech Skills: Ruby, Rails, Javascript, JQuery, Node.js, React.js, Express, Sinatra, Capybara, HTML, CSS, RSpec, Jasmine, Cypress, PostgreSQL, ActiveRecord, MongoDB
 * Behavioural Skills: XP, TDD, Agile, pair programming, whole-team projects, code reviews
 * Extra-Curricular: Part of the organisation team for Codebar Monthlies
 

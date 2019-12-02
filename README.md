@@ -67,16 +67,16 @@ Utilised my **adaptability** and **collaborative working** to work across a rang
 
 # Education
 
-##### Makers Academy - Software development bootcamp (June 2019 - Sept 2019) 
+#### Makers Academy - Software development bootcamp (June 2019 - Sept 2019) 
 * Tech Skills: Ruby, Rails, Javascript, JQuery, React, Sinatra, Capybara, HTML, CSS, RSpec, Jasmine, Cypress, PostgreSQL, ActiveRecord
 * Behavioural Skills: XP, TDD, Agile, pair programming, whole-team projects, code reviews
 * Extra-Curricular: Part of the organisation team for Codebar Monthlies
 
-##### University College London (September 2009 - September 2013) 
+#### University College London (September 2009 - September 2013) 
 * BA Hons History (2:1)
 * Extracurricular: Enterprise Bootcamp; Student Consultancy Project; Focus on Management; Youth Mentoring
 
-##### Tiffin Girls' School (Sept 2007 - Aug 2009) 
+#### Tiffin Girls' School (Sept 2007 - Aug 2009) 
 A Level Maths (A), Economics (A), History (A) and AS Level English Literature (B)
 
 # Interests

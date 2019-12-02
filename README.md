@@ -14,7 +14,7 @@
 
 </div>
 
-I'm a full-stack software developer recently graduated from Makers Academy, who combines this strong technical knowledge with years of community engagement and programme management experience.
+I'm a full-stack software developer about to graduate from Makers Academy, who combines this strong technical knowledge with years of community engagement and programme management experience.
 
 # Background
 

@@ -2,8 +2,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/zaira-rasool-19593574/">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="15" height="42" width="42"></a>
-<a href="">
-<img src="http://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png" alt="medium" hspace="15" height="42" width="42"></a>
 
 <div align="center">
 

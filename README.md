@@ -50,7 +50,7 @@ I am a highly resilient person, particularly demonstrated in my experiences in t
 
 # Experience
 
-#### The May Project (June '14 - Aug 2019)
+#### May Project Gardens (June '14 - Aug 2019)
 Director
 
 Set up and ran a social enterprise engaging diverse communities with sustainable living, overseeing the **strategic vision** with two other directors, and with specific responsibility for **programme management**, **accounts**, **operations** and **IT**.

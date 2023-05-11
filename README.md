@@ -14,19 +14,23 @@
 
 </div>
 
-I'm a full-stack software developer about to graduate from Makers Academy, who combines this strong technical knowledge with years of community engagement and programme management experience.
+I'm a full-stack engineer who combines strong technical knowledge with user engagement and management experience. I am highly
+empathic, have a very intuitive understanding of user needs, and demonstrate highly effective
+communication and team working backed by years of experience working with diverse communities.
 
 # Background
 
 In the 7 years I spent in community engagement and setting up and running a social enterprise, I realised my affinity to technology and the energy I got from solving problems. So I signed up to an intensive dev bootcamp and never looked back.
 
-I'm trained in agile development at Makers, as well as pair programming, test-driven development (TDD) and object-oriented programming (OOP). I am highly empathetic, have a very intuitive understanding of user needs, and a strong knowledge of psychology backed by years of diverse community engagement experience.
+I'm trained in agile development at Makers, as well as pair programming, test-driven development (TDD) and object-oriented programming (OOP). I have worked for 3 years in software engineering roles specifically working with Ruby, Javascript and Typescript, as well as working as a Software Engineering Coach at Makers.
 
 I want to bring my unique skill set, drive and commitment to a workplace with coding best practices, strong team dynamics, room to grow, and where the work I do has a clear purpose.
 
 # Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
+| **Coderoots** [Website](https://coderoots.io) [Github](https://github.com/zraso/coderoots) | A front-end only website to showcase the work of my non-profit Coderoots. I led a team of 3 junior engineers, 2 in UK and 1 in Gambia, and a designer to develop this site. The website is built with React and optimised for Mobile usage, and includes third-party integrations from Donorbox and Youtube. | 2 months | ReactJS, AWS, Namecheap | Jest |
+
 | **Travelist** [Heroku site](https://travelistmakers.herokuapp.com/) [Github](https://github.com/melvinlau/travelist) | A smart travel packing list assistant that uses weather data and custom user input to create a customised packing list for any trip. Created by a team of 4 with little to no previous experience of the tech stack. | 10 days | Node.js, Express, React, MongoDB | Travis, Cypress, Jest  |
 | **Acebook** Phase 1: [Rails app](https://github.com/nateg101/acebook-by-WinkleFace) Phase 2: [Rails backend](https://github.com/nateg101/acebook-by-WinkleFace/tree/api-routes) [ReactJS frontend](https://github.com/robertamangiapane/acebook-react) | Interpretation of Facebook with an emphasis on Agile processes, team work and learning new technology. Initially tasked to create it in Rails, for which we achieved 98% test coverage. Half-way through we were challenged to change our app to create a ReactJS front end. We had no prior knowledge of either Rails or React before the project.  | 2 weeks |Ruby on Rails, ReactJS, Active Record, Heroku, HTML/CSS | RSpec, Capybara, Travis, Cypress  |
 | **[Notes App](https://github.com/zraso/note-app)**| A single-page app created with the caveat that I wasn't allowed to use any frameworks; only vanilla Javascript and a self-built testing framework.  | 1 week | HTML/CSS, JavaScript | My own testing framework  |
@@ -51,6 +55,89 @@ I am a highly resilient person, particularly demonstrated in my experiences in t
 
 # Experience
 
+#### Makers Academy
+
+Software Engineering Coach | April 2022 - present
+
+Training career-switchers in a software engineering bootcamp, leading cohorts of up to 30 students to
+
+learn Ruby, Rails and JavaScript and build apps from scratch.
+
+Designing bespoke training for Corporate partners like Capgemini and Deloitte for their developers in
+
+languages and frameworks such as Typescript / Express, and Java / Springboot.
+
+Projects: Writing a Data Engineering & Ethics module; Leading Typescript & React training with Shell
+
+employees; Developing a Java Springboot module; Leading specialist sessions on Typescript and Agile
+
+ways of working.
+
+#### WorldRemit
+
+Full Stack Software Engineer | January 2021 - March 2022
+
+My focus was primarily working with React Native and GraphQL, in a NodeJS environment using
+
+Typescript.
+
+Projects:
+
+● Creating a backend-for-frontend service using Typescript and GraphQL which worked with all
+
+REST APIs in the organisation. The focus was on scalability and best practice to ensure that all
+
+services within the architecture can optimise GraphQL effectively for their needs.
+
+● Developing a component library in the Mobile team, working with React Native specifically in
+
+an Android environment, taking advantage of IntelliJ IDEA and its features. The focus here was
+
+again scalability and reusability, as well as the potential for the component library to be used
+
+outside of the organisation as a standalone package.
+
+● Integrating Google Analytics marketing tools into the Android mobile app, collecting data on
+
+user interactions like swipes and clicks. This piece of work required heavy communication with
+
+not just the technical team but Product and Marketing too, to ensure the correct tags were used
+
+and essential information was being gathered.
+
+Working within a complex microservices environment both with existing code as well as new APIs, I
+
+was involved in all aspects of development - writing code, testing, assessing and implementing best
+
+practice, effective documentation, and working with the team to lead Agile processes. A large part of
+
+my role was to map out and document the data framework within the organisation, as well as work with
+
+DevOps processes working with tools like Jenkins, Harness, Docker, SonarCloud, AppsFlyer, and
+
+Firebase.
+
+#### Farmdrop
+Software Engineer | Jan 2020 – September 2020
+Supported the existing e-commerce Rails backend tech stack whilst also improving the shopping
+basket Ruby microservice, building a new product reservations microservice to move code out of the
+monolith, and developing features for the frontend ReactJS internal admin platform to manage customer
+orders.
+
+Projects:
+● Resolving major scaling issues in the shopping basket as a result of a huge spike in demand
+due to COVID-19. This was in my first 6 weeks within the role, and I had to quickly familiarise
+myself with a complex system using Docker, Kubernetes, Kafka, a document database, Redis,
+Sidekiq. Within a month, we had resolved all bugs and stabilised the service to reliably work
+for 3 times as many customers.
+- Selected as the only developer to build the new product reservations microservice using
+
+Ruby, Postgres database and Kafka, working and communicating between different services
+
+and teams.
+
+Highly commended for my effective communication and teamwork by the CTO and Technical Leads.
+
 #### May Project Gardens (June '14 - Aug 2019)
 Director
 
@@ -68,7 +155,7 @@ Utilised my **adaptability** and **collaborative working** to work across a rang
 
 # Education
 
-#### Makers Academy - Software development bootcamp (June 2019 - Sept 2019) 
+#### Makers Academy - Software development bootcamp (Sept 2019 - Dec 2019) 
 * Tech Skills: Ruby, Rails, Javascript, JQuery, Node.js, React.js, Express, Sinatra, Capybara, HTML, CSS, RSpec, Jasmine, Cypress, PostgreSQL, ActiveRecord, MongoDB
 * Behavioural Skills: XP, TDD, Agile, pair programming, whole-team projects, code reviews
 * Extra-Curricular: Part of the organisation team for Codebar Monthlies

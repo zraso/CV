@@ -1,5 +1,4 @@
 <h1 align="center">Zaira Rasool</h1>
-[LinkedIn](https://www.linkedin.com/in/zaira-rasool-19593574/)
 
 [Background ](#Background) |
 [Projects ](#projects) |

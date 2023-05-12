@@ -55,8 +55,7 @@ I am a highly resilient person, particularly demonstrated in my experiences in t
 # Experience
 
 #### Makers Academy
-
-Software Engineering Coach | April 2022 - present
+##### Software Engineering Coach | April 2022 - present
 
 Training career-switchers in a software engineering bootcamp, leading cohorts of up to 30 students to learn Ruby, Rails and JavaScript and build apps from scratch. Designing bespoke training for Corporate partners like Capgemini and Deloitte for their developers in languages and frameworks such as Typescript / Express, and Java / Springboot.
 

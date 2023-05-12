@@ -1,4 +1,7 @@
 <h1 align="center">Zaira Rasool</h1>
+<p align="center">
+
+<div align="center">
 
 [Background ](#Background) |
 [Projects ](#projects) |

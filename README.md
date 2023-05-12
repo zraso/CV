@@ -1,8 +1,5 @@
 <h1 align="center">Zaira Rasool</h1>
-<p align="center">
-<a href="https://www.linkedin.com/in/zaira-rasool-19593574/">
-<img src="https://png.pngtree.com/element_our/png_detail/201…-media-icon-design-template-vector-png_127000.jpg" alt="linkedin" hspace="15" height="42" width="42"></a>
-<div align="center">
+[LinkedIn](https://www.linkedin.com/in/zaira-rasool-19593574/)
 
 [Background ](#Background) |
 [Projects ](#projects) |
